@@ -32,11 +32,6 @@ Simple and user-friendly interface
 
 Frontend: HTML, CSS, JavaScript
 
-Backend (optional): Node.js / PHP
-
-Database (optional): Local Storage / MySQL
-
-
 ## Learning Outcomes
 
 Understanding task management logic
